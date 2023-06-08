@@ -1,6 +1,5 @@
 # Firefox
 #### These are add-ons that I have personally installed.
-<br>
 
 # Essential:
 ## uBlock Origin

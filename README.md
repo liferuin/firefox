@@ -1,4 +1,19 @@
 # Firefox
+
+# Tweaks
+## Betterfox
+#### User.js file to optimize Firefox privacy, security, and speed.
+
+<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/yokoffing/Betterfox)
+
+#### Installation:
+1. Download the [`user.js`](https://github.com/yokoffing/Betterfox/blob/master/user.js) file.
+2. Open Firefox app and enter `about:support` in the URL bar and press <kbd>Enter</kbd>.
+3. Find `Profile Folder` in the table and click `Open Folder`.
+4. Move the `user.js` file into the `Profile Folder`.
+5. Restart Firefox.
+
+# Add-ons
 #### These are add-ons that I have personally installed.
 
 # Essential:

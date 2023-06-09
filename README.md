@@ -102,6 +102,11 @@ Returns ability to see dislikes on YouTube.
 
 <img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/Anarios/return-youtube-dislike) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
 
+## SponsorBlock for YouTube
+Skips in-video sponsorship segments, community-driven.
+
+<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/ajayyy/SponsorBlock) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+
 ## Tampermonkey
 Userscript manager to modify and add features to webpages.
 - Here are userscripts that I have personally installed:

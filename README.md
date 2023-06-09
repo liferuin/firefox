@@ -4,7 +4,7 @@
 ## Betterfox
 User.js file to optimize Firefox privacy, security, and speed.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/yokoffing/Betterfox)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/yokoffing/Betterfox)
 
 #### Installation:
 1. Download the [`user.js`](https://github.com/yokoffing/Betterfox/blob/master/user.js) file.
@@ -23,7 +23,7 @@ Unrivaled content blocker.
 - Create your own filters
 - Would recommend uninstalling any other ad-blocker as it could interfere with uBlock functionality
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/gorhill/uBlock) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/gorhill/uBlock) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
 # Niche:
 <i>Listed in alphabetical order:</i>
@@ -32,12 +32,12 @@ Unrivaled content blocker.
 Force-enable <kbd>Right Click</kbd> + <kbd>Copy</kbd> in context menu.
 - Helpful for downloading media.
 
-<img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px;"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
+<img src="img/firefox.png" style="vertical-align:middle; height:14px;"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/absolute-enable-right-click/)
 
 ## Bypass Paywalls
 Bypass paywalls on certain sites.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px;"> [GitHub](https://github.com/iamadamdev/bypass-paywalls-chrome)
+<img src="img/github.png" style="vertical-align:middle; height:14px;"> [GitHub](https://github.com/iamadamdev/bypass-paywalls-chrome)
 
 ## Control Panel for Twitter
 Many useful tweaks for Twitter including:
@@ -48,19 +48,19 @@ Many useful tweaks for Twitter including:
 - Hide tweet metrics
 - Hide "Verified" badges
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/insin/control-panel-for-twitter) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/insin/control-panel-for-twitter) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/)
 
 ## Dark Reader
 Adaptive "dark mode" for webpages.
 - Doesn't work perfectly for ALL webpages (color modifications may decrease legibility), but there are many different filters to help fine-tune the look and you can toggle on/off per domain.
 - In rare cases it can break certain webpage's functionality.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/darkreader/darkreader) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/firefox/addon/darkreader/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/darkreader/darkreader) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/firefox/addon/darkreader/)
 
 ## Don't Track Me Google
 Removes Google's link-conversion/tracking feature on search result links.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/Rob--W/dont-track-me-google) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/Rob--W/dont-track-me-google) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/)
 
 ## Enhancer for YouTube
 Tweaks for YouTube's UI including:
@@ -69,7 +69,7 @@ Tweaks for YouTube's UI including:
 - Pop-up video player when you scroll to comments
 - Force theater mode
 
-<img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
+<img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
 
 ## Firefox Color
 Customize your Firefox window color scheme.
@@ -79,56 +79,56 @@ Customize your Firefox window color scheme.
 ## I Still Don't Care About Cookies
 Disable cookie warning popups when loading webpages.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/)
 
 ## MAL-Sync
 Syncs information like ratings, progress, etc. between different anime databases (MyAnimeList, Anilist, etc.).
 - Updates "watch" status when watching anime on Crunchyroll, HiDive, etc.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/MALSync/MALSync) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/MALSync/MALSync) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/mal-sync/)
 
 ## Reddit Enhancement Suite
 Tweaks to improve Reddit browsing experience.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/honestbleeps/Reddit-Enhancement-Suite) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/reddit-enhancement-suite/)
 
 ## Refined GitHub
 Tweaks to improve GitHub browsing experience.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/refined-github/refined-github) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/refined-github/refined-github) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/refined-github-/)
 
 ## Return YouTube Dislike
 Returns ability to see dislikes on YouTube.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/Anarios/return-youtube-dislike) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/Anarios/return-youtube-dislike) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/)
 
 ## SponsorBlock for YouTube
 Skips in-video sponsorship segments, community-driven.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/ajayyy/SponsorBlock) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/ajayyy/SponsorBlock) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
 
 ## Tampermonkey
 Userscript manager to modify and add features to webpages.
 - Here are userscripts that I have personally installed:
     - [Twitch Auto Max Quality](https://github.com/nomomo/Twitch-Auto-Max-Quality)
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/Tampermonkey/tampermonkey) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/Tampermonkey/tampermonkey) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)
 
 ## TTV LOL PRO
 Removes most ads from Twitch streams.
 - Works most of the time, although Twitch is constantly adapting.
 - Devs do a good job of frequently updating.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/younesaassila/ttv-lol-pro)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/younesaassila/ttv-lol-pro)
 
 ## Translate Web Pages
 Translates webpages in real-time using Google or Yandex.
 
-<img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/FilipePS/Traduzir-paginas-web) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
+<img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/FilipePS/Traduzir-paginas-web) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/traduzir-paginas-web/)
 
 ## Wikiwand
 Modernizes Wikipedia UI.
 
-<img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
+<img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
 
-<!-- <img src="img/github.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [GitHub](https://github.com/Rob--W/dont-track-me-google) | <img src="img/firefox.png" style="vertical-align:middle; margin-top:-3px; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) -->
+<!-- <img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/Rob--W/dont-track-me-google) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) -->

@@ -1,5 +1,4 @@
-# Firefox
-
+# Firefox <img src="img/firefox.png" style="vertical-align:middle; height:24px;">
 # Tweaks
 ## Betterfox
 User.js file to optimize Firefox privacy, security, and speed.

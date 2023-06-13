@@ -18,9 +18,9 @@ These are add-ons that I have personally installed.
 # Essential:
 ## uBlock Origin
 Unrivaled content blocker.
-- Pick and choose webpage elements to block
-- Create your own filters
-- Would recommend uninstalling any other ad-blocker as it could interfere with uBlock functionality
+- Pick and choose webpage elements to block.
+- Create your own filters.
+- Would recommend uninstalling any other ad-blocker as it could interfere with uBlock functionality.
 
 <img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/gorhill/uBlock) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
@@ -40,12 +40,12 @@ Bypass paywalls on certain sites.
 
 ## Control Panel for Twitter
 Many useful tweaks for Twitter including:
-- Restore chronological timeline
-- De-clutter the homepage UI
-- Separate/hide "For You" timeline
-- Separate/hide retweets
-- Hide tweet metrics
-- Hide "Verified" badges
+- Restore chronological timeline.
+- De-clutter the homepage UI.
+- Separate/hide "For You" timeline.
+- Separate/hide retweets.
+- Hide tweet metrics.
+- Hide "Verified" badges.
 
 <img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/insin/control-panel-for-twitter) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/control-panel-for-twitter/)
 
@@ -63,10 +63,10 @@ Removes Google's link-conversion/tracking feature on search result links.
 
 ## Enhancer for YouTube
 Tweaks for YouTube's UI including:
-- Custom dark themes
-- Force playback quality
-- Pop-up video player when you scroll to comments
-- Force theater mode
+- Custom dark themes.
+- Force playback quality.
+- Pop-up video player when you scroll to comments.
+- Force theater mode.
 
 <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/)
 
@@ -129,5 +129,3 @@ Translates webpages in real-time using Google or Yandex.
 Modernizes Wikipedia UI.
 
 <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/wikiwand-wikipedia-modernized/)
-
-<!-- <img src="img/github.png" style="vertical-align:middle; height:14px"> [GitHub](https://github.com/Rob--W/dont-track-me-google) | <img src="img/firefox.png" style="vertical-align:middle; height:14px"> [Add-on](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1/) -->

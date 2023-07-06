@@ -12,6 +12,8 @@ User.js file to optimize Firefox privacy, security, and speed.
 4. Move the `user.js` file into the `Profile Folder`.
 5. Restart Firefox.
 
+#### My personal [`user.js`](user.js) file.
+
 ## Add-ons
 These are add-ons that I have personally installed.
 <i>Listed in alphabetical order:</i>

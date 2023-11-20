@@ -74,3 +74,6 @@ Installed lists:
 [Hide YouTube Shorts](https://github.com/gijsdev/ublock-hide-yt-shorts)
 
 [Fuck FuckAdblock](https://github.com/bogachenko/fuckfuckadblock)
+
+### [Violentmonkey](https://github.com/violentmonkey/violentmonkey)
+[Violentmonkey Settings Backup](violentmonkey.zip)
